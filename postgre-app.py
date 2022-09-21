@@ -1,3 +1,5 @@
+"""Communication with postgresql database."""
+
 import psycopg2
 
 
